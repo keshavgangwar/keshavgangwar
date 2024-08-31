@@ -45,6 +45,7 @@
 
 <h3 align="left">Databases :</h3>
 <div align="left">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-Proficient-brightgreen">
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>

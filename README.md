@@ -67,20 +67,6 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavgangwar&show_icons=true&theme=dark&locale=en&layout=compact" alt="KeshavGangwar" /></td>
   </tr>
 </table>
-<!-- <table>
-  <tr> 
-    <td>
-    
-  </td></tr>
-(https://github-readme-stats.vercel.app/api?username=keshavgangwar&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-(https://github-readme-streak-stats.herokuapp.com/?user=keshavgangwar&theme=dark&hide_border=true)<br/>
-(https://github-readme-stats.vercel.app/api/top-langs/?username=keshavgangwar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=keshavgangwar&icon=0&color=0)](https://visitcount.itsvg.in)
-</table>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=keshavgangwar&theme=dark&border_radius=10&card_width=500" alt="KeshavGangwar" /></p>
 </div>

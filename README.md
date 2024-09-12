@@ -60,21 +60,27 @@
 <div align="left">
   <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<!-- </div>
+</div>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=keshavgangwar&show_icons=true&theme=dark&locale=en" alt="KeshavGangwar" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=keshavgangwar&show_icons=true&theme=dark&locale=en&layout=compact" alt="KeshavGangwar" /></td>
   </tr>
-</table> -->
-![](https://github-readme-stats.vercel.app/api?username=keshavgangwar&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=keshavgangwar&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keshavgangwar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+</table>
+<!-- <table>
+  <tr> 
+    <td>
+    
+  </td></tr>
+(https://github-readme-stats.vercel.app/api?username=keshavgangwar&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+(https://github-readme-streak-stats.herokuapp.com/?user=keshavgangwar&theme=dark&hide_border=true)<br/>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=keshavgangwar&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=keshavgangwar&icon=0&color=0)](https://visitcount.itsvg.in)
+</table>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
 <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=keshavgangwar&theme=dark&border_radius=10&card_width=500" alt="KeshavGangwar" /></p>
 </div>
